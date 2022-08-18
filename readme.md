@@ -32,16 +32,16 @@ Copy the git repo, and then use PyInstaller to make the executable file. (or any
 
 1. Complete Step 2 in the "Convert Pages to Heading Level 6" Section
 2. Complete Step 1 in the "Place Alt Text Reminders" Sections
-3. ***Press Images and Pages***
+3. Select **Images and Pages**
 
 ### Sections to Headings:
 
-1. You can conver sections to headings too, first make a new word document.
+1. You can convert sections to headings too, first make a new word document.
 2. Type the Heading level (Only goes up to 6 Heading levels). The format for this is the following: H1, H2, H3, H4, H5, H6
 3. After you type the heading you want any paragraph beneath it will convert to the heading level you typed, type the sections you want to be that heading.
 4. You **must type the sections the same as they appear in the book,** however, it is not case or space sensitive.
 5. Save and exit the document, make sure you complete the getting started section
-6. Select the document using **Section Document**, it will start automatically and conver the sections to headings
+6. Select the document using **Section Document**, it will start automatically and convert the sections to headings
 
 #### Example of how the Section Document looks:
 
