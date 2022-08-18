@@ -45,14 +45,14 @@ Copy the git repo, and then use PyInstaller to make the executable file. (or any
 
 #### Example of how the Section Document looks:
 
-H1
-This it the Title
-H2
-Section1
-Section2
-Section3
-H3
-Section1.1
-Section2.1
-Section3.1
+H1 <br />
+This it the Title <br />
+H2 <br />
+Section1 <br />
+Section2 <br />
+Section3 <br />
+H3 <br />
+Section1.1 <br />
+Section2.1 <br />
+Section3.1 <br />
 
