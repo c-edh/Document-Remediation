@@ -1,5 +1,8 @@
 # Document Assistant
 
+
+<img src='documentAssistantGui.png' title='Document Asssitant GUI' alt="the program's Graphic User Interface"/>
+
 ## How to install:
 
 You will need to have python3 installed, uses the following: docx, tkinter, re.
@@ -15,11 +18,19 @@ Copy the git repo, and then use PyInstaller to make the executable file. (or any
 2. Make sure you have no word document open
 3. Select **Open**, and pick the file you want to remediate
 
+<img src='GettingStarted.png' title='Getting Started' alt='Name your output file any name, then press open file' />
+
 ### Convert Pages to Heading Level 6:
 
 1. Your ***Document must contain a heading level 6.*** To do this, open the document you want to remediate and create headings until you create a heading level 6 then ***save and exit*** the document
+
+<img src='wordDocHeadings.png' title='Headings in Word Document' alt='Make sure you have heading levels up to 6 to remediate pages, and headings up to 7 for images' />
+
 2. Put the starting page number in the text field under **"Start Page:**
-3. **Select Page Headers**
+
+<img src='pageNumber.png' title='Starting Page Number' alt='Enter the page you want to start at' />
+
+3. Select **Page Headers**
 
 ***Note: only put in Arabic Numerals (1,2,3,4...), No Roman Numerals, etc.***
 
@@ -56,3 +67,14 @@ Section1.1 <br />
 Section2.1 <br />
 Section3.1 <br />
 
+
+## Results
+
+### Before
+
+<img src='beforeRemediation.png' title='Before Remediating the Document' Alt='What the document looks like before being remediated' />
+
+
+### After
+
+<img src='afterRemediation.gif' title='After Remediating the Document' alt='What the document looks after using this program' />
